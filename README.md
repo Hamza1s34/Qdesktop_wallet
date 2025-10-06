@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![QBitcoin Logo](asessts/icon/icon(u).png)
+![QBitcoin Logo](https://wwww.qbitcoin.live/qbitcoin_logo)
 
 **A Quantum-Resistant Desktop Wallet for QBitcoin**
 
