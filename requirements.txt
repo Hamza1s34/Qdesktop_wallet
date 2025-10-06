@@ -1,0 +1,9 @@
+requests>=2.31.0
+cryptography>=41.0.0
+grpcio>=1.59.0
+grpcio-tools>=1.59.0
+protobuf>=4.24.0
+google-api-core>=2.11.0
+pqcrypto
+PyQt6>=6.5.0
+qrcode[pil]

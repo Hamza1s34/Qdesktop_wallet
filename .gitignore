@@ -1,0 +1,13 @@
+dist/
+build/
+AppDir/
+appimage/
+*.AppImage
+*.AppImage.zsync
+appimage/linuxdeploy*
+appimage/appimagetool*
+appimage/squashfs-root/
+__pycache__/
+*.pyc
+venv/
+
